@@ -9,7 +9,7 @@ Instalation:
 0.Dowwnload code zip or like repository
 
 
-1. Go to page in chrome: 
+1. Go to page in chrome or open manage extension: 
 chrome://extensions/
 
 
