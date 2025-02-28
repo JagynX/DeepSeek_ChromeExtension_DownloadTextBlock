@@ -11,6 +11,8 @@ If there is text above the code block that matches the regex pattern /\b[\w.-]+.
 Installation:
 
 Download the code as a ZIP file or clone the repository.
+![image](https://github.com/user-attachments/assets/b1e5be2b-49d5-4c0a-bab1-82af67325844)
+
 
 Go to the Chrome Extensions page or open chrome://extensions/.
 
@@ -47,6 +49,8 @@ Third example for download Guid().txt:
 Установка:
 
 Скачайте код в виде ZIP-архива или клонируйте репозиторий.
+![image](https://github.com/user-attachments/assets/181be755-5818-407e-bb5b-bb32f36723e3)
+
 
 Перейдите на страницу расширений Chrome или откройте chrome://extensions/.
 
