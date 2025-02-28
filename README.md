@@ -6,7 +6,7 @@ if there text above block and some text matches regexp "/\b[\w.-]+\.[a-zA-Zа-я
 Instalation:
 
 
-0.Dowwnload code zip or like repository
+0.Download code zip or repository
 
 
 1. Go to page in chrome or open manage extension: 
